@@ -5813,10 +5813,10 @@ react-native-root-toast@^3.4.1:
     prop-types "^15.5.10"
     react-native-root-siblings "^4.0.0"
 
-react-native-webview@11.6.2:
-  version "11.6.2"
-  resolved "https://registry.npmmirror.com/react-native-webview/-/react-native-webview-11.6.2.tgz#e19b3325d6777caee29d04eb2edf9b70f0b29915"
-  integrity sha512-7e5ltLBgqt1mX0gdTTS2nFPIjfS6y300wqJ4rLWqU71lDO+8ZeayfsF5qo83qxo2Go74CtLnSeWae4pdGwUqYw==
+react-native-webview@^11.26.1:
+  version "11.26.1"
+  resolved "https://registry.npmmirror.com/react-native-webview/-/react-native-webview-11.26.1.tgz#658c09ed5162dc170b361e48c2dd26c9712879da"
+  integrity sha512-hC7BkxOpf+z0UKhxFSFTPAM4shQzYmZHoELa6/8a/MspcjEP7ukYKpuSUTLDywQditT8yI9idfcKvfZDKQExGw==
   dependencies:
     escape-string-regexp "2.0.0"
     invariant "2.2.4"
