@@ -1,3 +1,4 @@
+import React from 'react'
 import { FC } from 'react'
 import { KeyboardAvoidingView, Platform } from 'react-native'
 import WebView from 'react-native-webview'
